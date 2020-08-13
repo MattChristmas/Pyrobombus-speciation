@@ -3,7 +3,7 @@ This repository contains scripts written for the analysis carried out in Christm
 
 All custom scripts were written in perl. I wrote these to work specifically on our datasets and so will require some editing (such as input/output filenames and sample names) if you are to apply them to other datasets.<br>
 
-Proportion of GC in non-overlapping slidding windows - [count_GC_in_windows.pl](http://github.com/MattChristmas/Pyrobombus-speciation/count_GC_in_windows.pl) <br>
+Proportion of GC in non-overlapping slidding windows - [count_GC_in_windows.pl](count_GC_in_windows.pl) <br>
 Parsing GenMap output in non-overlapping slidding windows - <br>
 Parsing RepeatMasker output in non-overlapping slidding windows - <br>
 Parsing LDHat stat output in non-overlapping slidding windows - <br>
