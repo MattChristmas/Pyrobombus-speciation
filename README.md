@@ -9,4 +9,6 @@ Parsing RepeatMasker output in non-overlapping slidding windows - <br>
 Parsing LDHat stat output in non-overlapping slidding windows - <br>
 Calculating nucleotide diversity (π) - <br>
 Calculating absolute divergence (d<sub>XY</sub>) - <br>
-Caclulating the average changes in F<sub>ST</sub>, π, and d<sub>XY</sub> in 20Kbp steps away from the centres of islands of divergence - <br>
+Caclulating the average changes in ZF<sub>ST</sub>, π, and d<sub>XY</sub> in 20Kbp steps away from the centres of islands of divergence - <br>
+<br>
+The majority of the analyses in the paper (identifying islands of divergence (IoDs), comparing metrics inside and outside of IoDs, and all plotting) were performed in R. Theses analyses are detailed in the R script Pyrobombus_speciation_genomics_analysis.R
